@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alasko25
-- 👀 I’m interested in data science dmains
+- 👋 Hi, I’m TOURE Alassane
+- 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning engineering in Big data and cloud computing.
 - 💞️ I’m looking to collaborate on projects to expand my knowwledges/
 - 📫 How to reach me: discord portgassdlass.
