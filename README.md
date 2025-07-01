@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alasko25/Alasko25/main/banner.png" width="100%" alt="Alassane TOURE - Cybersecurity & Data Science" />
+</p>
+
 <h1 align="center">Hi 👋, I'm TOURE ALASSANE</h1>
 <h3 align="center">Cybersecurity & Data Science Engineer | ENSIBS - ENSET Mohammedia</h3>
 
@@ -9,47 +13,80 @@
 
 ---
 
-### 💡 About Me
+### 💡 À propos de moi
 
 - 🎓 Double diplômé en **Cybersécurité & Science des données** (ENSIBS / ENSET)
 - 🧠 Passionné par l’**IA**, le **Big Data**, le **Cloud** et le **DevSecOps**
 - 🌍 Basé à Vannes, France 🇫🇷
-- 🗣 Parle courramment le français 🇫🇷 et l'anglais 
+- 🗣 Langues : Français 🇫🇷, Anglais 🇬🇧
 - 📫 Contact : `alassanretou658@gmail.com` / Discord : `portgassdlas`
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 Ce que je suis en train d'explorer
 
-- 💳 Détection IA de fraudes bancaires via FastAPI, MLflow, XGBoost, React/TS
-- 🧠 Projets IA & Big Data avec Docker, Spark, Hadoop, Oracle Analytics
-- 🔒 Cybersécurité applicative (authentification, JWT, OAuth2, etc.)
-
----
-
-### 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- 🌌 Exploration des technologies en cybersécurité, **ethical hacking**, et détection de fraude
+- 🤖 Approfondissement des compétences en **Machine Learning** et **IA appliquée**
+- 📊 Conception de pipelines **ETL**, automatisation de traitement et transformation des données
+- ☁️ Environnements cloud (Oracle Cloud, conteneurisation, déploiement, virtualisation)
 
 ---
 
-### 📈 GitHub Stats
+### 🧰 Stack technique
+
+<details>
+<summary>💻 Langages & Frameworks</summary>
+
+- Python, Java, R, C/C++, TypeScript, Bash, PHP, HTML/CSS, JavaScript
+- FastAPI, React/TS, Bootstrap, jQuery, AJAX
+</details>
+
+<details>
+<summary>📚 IA, Machine Learning & Statistiques</summary>
+
+- Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
+- XGBoost, Random Forest, Isolation Forest
+- MLflow, Statistiques, Supervised/Unsupervised Learning
+</details>
+
+<details>
+<summary>🛢️ Bases de données</summary>
+
+- MongoDB, PostgreSQL, MySQL, Oracle, Redis, Cassandra, HBase, Access
+</details>
+
+<details>
+<summary>📦 Big Data, ETL & Cloud</summary>
+
+- Hadoop, Data Warehousing, ETL, Oracle Cloud, Docker, VMware
+</details>
+
+<details>
+<summary>🔐 Sécurité & Authentification</summary>
+
+- OAuth2, JWT, Auth sécurisée full-stack, Sécurité API, DevSecOps
+</details>
+
+<details>
+<summary>🛠️ Outils et environnements</summary>
+
+- Git, GitHub, JIRA, Linux, Windows, Pack Office
+</details>
+
+---
+
+### 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alasko25&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alasko25&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alasko25&show_icons=true&theme=tokyonight" alt="Alasko25 GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alasko25&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
 
 ### 🎯 Fun Fact
-> Je code parfois avec un anime en fond, et j’apprends l'IA en construisant des projets concrets.
+
+> Je code parfois avec un anime en fond, et j’apprends l’IA en construisant des projets concrets ✨
 
 <!---
 Alasko25/Alasko25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
