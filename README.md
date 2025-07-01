@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alasko25/Alasko25/main/banner.png" width="100%" alt="Alassane TOURE - Cybersecurity & Data Science" />
-</p>
-
 <h1 align="center">Hi 👋, I'm TOURE ALASSANE</h1>
-<h3 align="center">Cybersecurity & Data Science Engineer | ENSIBS - ENSET Mohammedia</h3>
+<h3 align="center">Cybersecurity & Data Science Engineering student | ENSIBS - ENSET Mohammedia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alasko25&label=Profile%20views&color=0e75b6&style=flat" alt="Alasko25" />
@@ -15,8 +11,8 @@
 
 ### 💡 À propos de moi
 
-- 🎓 Double diplômé en **Cybersécurité & Science des données** (ENSIBS / ENSET)
-- 🧠 Passionné par l’**IA**, le **Big Data**, le **Cloud** et le **DevSecOps**
+- 🎓 Étudiant en double diplômé en **Cybersécurité & Science des données** (ENSIBS / ENSET)
+- 🧠 Passionné par l’**IA**, la **Data science**, le **Big Data**, le **Cloud** et le **DevSecOps**
 - 🌍 Basé à Vannes, France 🇫🇷
 - 🗣 Langues : Français 🇫🇷, Anglais 🇬🇧
 - 📫 Contact : `alassanretou058@gmail.com` / Discord : `portgassdlas`
