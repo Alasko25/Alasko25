@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alasko25&label=Profile%20views&color=0e75b6&style=flat" alt="Alasko25" />
   <a href="https://linkedin.com/in/alassane-tour%C3%A9-4b462728a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a>
-  <a href="mailto:alassanretou658@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
+  <a href="mailto:alassanretou058@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red" /></a>
 </p>
 
 ---
@@ -19,16 +19,15 @@
 - 🧠 Passionné par l’**IA**, le **Big Data**, le **Cloud** et le **DevSecOps**
 - 🌍 Basé à Vannes, France 🇫🇷
 - 🗣 Langues : Français 🇫🇷, Anglais 🇬🇧
-- 📫 Contact : `alassanretou658@gmail.com` / Discord : `portgassdlas`
+- 📫 Contact : `alassanretou058@gmail.com` / Discord : `portgassdlas`
 
 ---
 
 ### 🚀 Ce que je suis en train d'explorer
 
-- 🌌 Exploration des technologies en cybersécurité, **ethical hacking**, et détection de fraude
+- 🌌 Exploration des technologies en **cybersécurité**, **ethical hacking**, et détection de fraude
 - 🤖 Approfondissement des compétences en **Machine Learning** et **IA appliquée**
 - 📊 Conception de pipelines **ETL**, automatisation de traitement et transformation des données
-- ☁️ Environnements cloud (Oracle Cloud, conteneurisation, déploiement, virtualisation)
 
 ---
 
