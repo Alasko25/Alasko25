@@ -14,6 +14,7 @@
 - 🎓 Double diplômé en **Cybersécurité & Science des données** (ENSIBS / ENSET)
 - 🧠 Passionné par l’**IA**, le **Big Data**, le **Cloud** et le **DevSecOps**
 - 🌍 Basé à Vannes, France 🇫🇷
+- 🗣 Parle courramment le français 🇫🇷 et l'anglais 
 - 📫 Contact : `alassanretou658@gmail.com` / Discord : `portgassdlas`
 
 ---
