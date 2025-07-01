@@ -95,7 +95,7 @@
 <summary>🔐 Cybersécurité</summary>
 
 - Audit Linux, analyse de logs, contrôle d’accès, ligne de commande avancée  
-- 🔍 **IDS / IPS**, administration système, hardening, pratiques DevSecOps
+- **IDS / IPS**, administration système, pratiques DevSecOps
 - Authentification sécurisée avec JWT, OAuth2, tokens, sécurité API
 </details>
 
@@ -124,7 +124,7 @@
 
 ### 🎯 Fun Fact
 
-> Je code parfois avec un anime en fond, et j’apprends l’IA en construisant des projets concrets ✨
+> Curieux de nature, je combine souvent apprentissage et pratique en développant des projets concrets... parfois avec une bande-son d'anime en fond pour l'inspiration.
 
 <!---
 Alasko25/Alasko25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
