@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TOURE ALASSANE</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;Cybersecurity+Analyst;ENSIBS+Engineering+Student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;Cybersecurity+Analyst;ENSIBS+Engineering+Student" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alasko25&label=Profile%20views&color=0e75b6&style=flat" alt="Alasko25" />
